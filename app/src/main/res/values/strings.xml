@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ExamLiveDataSetText</string>
+    <string name="editText1">EditText 1</string>
+    <string name="editText2">EditText 2</string>
+    <string name="textView1">TextView 1</string>
+    <string name="textView2">TextView 2</string>
+</resources>
